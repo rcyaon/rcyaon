@@ -8,4 +8,4 @@ lena · based in ithaca, ny · ee student
 
 ---
  
-► [my corner of the internet](https://lenaphobia.vercel.app/) 
+▸ [my corner of the internet](https://lenaphobia.vercel.app/) 
