@@ -1,9 +1,3 @@
-lena · ee student · [lenaphobic.tech](https://lenaphobic.tech/) 
-```
-             ⊹  ★ ⁺
-
-         (\_(\     /)_/)
-         (    )   (    )
-         /    |   |    \
-        ( O   |   |   O )
-```
+` /)  /)`  
+`( . . )`  
+`(   つ🔗` [lenaphobic.tech](https://lenaphobic.tech/) 
