@@ -1,3 +1,9 @@
-` /)  /)`  
-`( . . )`  
-`(   つ🔗` [lenaphobic.tech](https://lenaphobic.tech/) 
+[lenaphobic.tech](https://lenaphobic.tech/)
+```
+             ⊹  ★ ⁺
+
+         (\_(\     /)_/)
+         (    )   (    )
+         /    |   |    \
+        ( O   |   |   O )
+```
