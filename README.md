@@ -1,8 +1,5 @@
-[lenaphobic.tech](https://lenaphobic.tech/)
-      
-```
- (\_(\     /)_/)
- (    )   (    )
- /    |   |    \
-( O   |   |   O )
-```
+<pre>
+ /)  /)  
+( . . )  
+(   つ <a href="https://lenaphobic.tech/">lenaphobic.tech</a>
+</pre>
