@@ -1,5 +1,5 @@
 <pre>
  /)  /) 
 ( . . ) 
-(  づ <a href="https://lenaphobic.tech/">lenaphobic.tech</a> 
+(  づ hi, i'm <a href="https://lenaphobic.tech/">lena</a>!
 </pre>
