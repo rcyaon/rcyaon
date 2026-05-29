@@ -1,6 +1,6 @@
 <pre>
 |‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾|
-|  hi, i'm <a href="https://lenaphobic.tech/">lena</a>!  |
+|  hi, i'm <a href="https://lenaphobic.tech/" target="_blank" >lena</a>!  |
 |＿＿＿＿＿＿＿＿＿＿|
    (\_(\ ||
    ( . .)||
