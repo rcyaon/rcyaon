@@ -1,5 +1,5 @@
 ```
    (\_(\  
-   ( . .)  hi, welcome to my github!
+   ( . .)  welcome to my github!
    /  　\
 ```
