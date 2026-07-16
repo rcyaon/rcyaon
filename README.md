@@ -1,6 +1,7 @@
-```
-   (\_(\  
-   ( . .)  hi, i'm lena!
-   /  　\
-```
-see my [website](https://www.lenaphobic.tech/) to see what i'm working on right now.
+<div>
+<pre>
+ (\_(\  
+ ( . .)  hi, i'm lena!
+ /    \  view my work on my <a href="https://www.lenaphobic.tech/">website</a>
+</pre>
+</div>
