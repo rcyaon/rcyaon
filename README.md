@@ -1,5 +1,4 @@
-<pre>
-        ⊹ <a href="https://www.lenaphobic.tech/">portfolio</a>   
+<pre>        ⊹ <a href="https://www.lenaphobic.tech/">Portfolio</a>   
                   ★ ⁺
 
        (\_(\     /)_/)
