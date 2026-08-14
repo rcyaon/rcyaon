@@ -1,5 +1,5 @@
 <pre>
  /)  /)
 ( . . ) 
-   psst.. <a href="https://www.lenaphobic.tech/">portfolio here</a> 
+   portfolio <a href="https://www.lenaphobic.tech/">here</a> 
 </pre>
