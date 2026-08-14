@@ -1,6 +1,5 @@
-<pre>           <a href="https://www.lenaphobic.tech/">Portfolio</a> 
-
-       (\_(\       /)_/)
-       (    )     (    )
-       /    |     |    \
-      ( O   |     |   O ) </pre>
+<pre>
+ /)  /)
+( . . ) 💬
+   psst.. <a href="https://www.lenaphobic.tech/">portfolio here</a> 
+</pre>
